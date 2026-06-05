@@ -29,6 +29,18 @@
 - masked multi head attention is the imp part for that 
 - used for next token prediction 
 
+
+
+
+
+
+### RoPE Positional Encoding in AI Language Models
+- Link: https://t.tyrionurl.com/by
+- Noted:
+  - it combines both positional and rotatinal encoding. 
+  - it uses rotation matrix 
+  ![rotation matrix](https://medium.com/@himankvjain/the-rope-effect-untangling-positional-encoding-in-ai-language-models-1bf0ab46776b)
+   
 ### Grouped Query Attention
 - Link: https://t.tyrionurl.com/bv
 - Notes:
